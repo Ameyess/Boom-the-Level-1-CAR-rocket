@@ -6,7 +6,7 @@ Boom is a single-stage Level 1 high-power rocket designed and built from scratch
 # Why I Built This
 I've been fascinated by space and rockets since I was 10... playing games like Universe Sandbox and dreaming about what's out there beyond Earth. I loved learning how propulsion systems and aerodynamics work, seeing how to make things glide more smoothly through the air and how air can be a little funky. Since I was 10, I've been keeping up with this YouTuber called Integza and he really brought me into the world of rockets and propulsion. On top of all this I want to pursue a career in aerospace engineering. Instead of building a wind tunnel or a similar project, I wanted to get my L1 certification. I wanted to actually build something real before entering the field. Boom is that project: a fully designed, simulated, and flown (hopefully) rocket that I can point to and say I made it.
 
-#Project images
+# Project images
 
 ## OpenRocket Design
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a3cb8c3a-c556-4187-8da7-7453717829a5" />
