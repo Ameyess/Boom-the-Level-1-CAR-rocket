@@ -161,7 +161,7 @@ For the visibility side of it, many people recommended making the rocket a very 
 
 # May 7: Final touches Mk3
 
-## Questions to Answer
+Questions to Answer
 
 **a)** If you can't do trajectory control, how are you going to make sure it's not going anywhere it's not supposed to be?
 
@@ -169,7 +169,7 @@ For the visibility side of it, many people recommended making the rocket a very 
 
 **c)** How are you going to make sure the thing isn't going to go down barrelling at terminal velocity and destroying itself?
 
-## Responses
+Responses
 
 **A)** For the question of how the rocket will be controlled and kept on course without trajectory control, the answer comes down to stability and launch setup. As stated in a previous journal, in a properly stable rocket, the thrust pushes downward, and the rocket moves in the opposite direction. This might raise concerns because even the most stable rockets do drift and can change direction, which is why I included fins in my rocket design. The fins will help the rocket stay in the air while maintaining its stability. Additionally, RocketPy simulations accurately show where the rocket will end up.
 
@@ -179,7 +179,7 @@ For the visibility side of it, many people recommended making the rocket a very 
 
 **C)** For the concern about the rocket coming down at terminal velocity and destroying itself, this is handled through the recovery system. The rocket will have a parachute already listed in the parts list, along with an ejection charge built into the motor itself. When the motor burns out, the charge fires automatically, and users can adjust the time by using the provided tool in the rocket motor package, as well as an alternative tool which I already own.
 
-## Use of the Firefly
+Use of the Firefly
 
 The onboard Firefly computer will only be used to track altitude during the launch. The Firefly does not have a GPS, a way to detach the chute, or any other function within the rocket. Since the Firefly acts as its own module, I could not find/make a wiring diagram for it.
 
@@ -193,7 +193,7 @@ In today's session (final session before build, hopefully), I worked on the revi
 
 ![Reviewer feedback](https://stasis.hackclub-assets.com/images/1778621315843-hz265c.png)
 
-## Point 1 — GitHub Organizing
+Point 1 — GitHub Organizing
 
 The first part of the feedback that caught my eye was the horrendous-looking GitHub; I 100% agree that it should be organized into folders. In this session, I did just that: I organized the GitHub into folders for CAD, Simulations, and the Firefly payload altimeter module.
 
@@ -211,7 +211,7 @@ The Firefly folder holds the manual for my altimeter module as well as the wirin
 
 ![Firefly folder 2](https://stasis.hackclub-assets.com/images/1778622317928-2cc1nb.png)
 
-## Point 2 — Stability Without Movable Fins
+Point 2 — Stability Without Movable Fins
 
 The second piece of feedback was a concern about how the rocket would remain stable and on course without active trajectory control or movable fins. This was a major concern of mine when I was designing the rocket; however, I have since learned that active stabilization is not necessary for a safe flight.
 
